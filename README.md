@@ -1,6 +1,7 @@
+# Dataset and Code
 [RACS'24] A Hierarchical Topic Modeling Analysis of Twitter Data on COVID-19 Vaccines
-Our analysis is performed in the following steps:
 
+Our analysis is performed in the following steps:
 1. Dataset Collection
  - Our own dataset: Korean twitter mentioning covid-19 vaccine(AstraZeneca, Janssen, Novavax, Moderna, Pfizer) for 4 periods
  - First period : Feburary 2021 ~ July 2021
